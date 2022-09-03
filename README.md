@@ -3,6 +3,7 @@
 I participated in the pool of 42 Lyon in August 2022 at the age of 18 years.
 I share my pool for educational purposes and not for cheating. Anyway if you cheat 42 will know and you will not be admitted.
 
+In the second branch of this repo I will try to finish the pool and correct all my mistakes to improve !
 ```
 /* ************************************************************************** */
 /*                                                                            */
